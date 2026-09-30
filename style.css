@@ -11,7 +11,7 @@ html { scroll-behavior: smooth; }
 
 body {
   margin: 0 auto;
-  max-width: 840px;
+  max-width: 900px;
   padding: 1.7rem 1.4rem 4rem;
   color: var(--ink);
   background: #fff;
@@ -75,8 +75,8 @@ a { color: var(--link); }
 
 .home-layout {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 230px;
-  gap: 2.2rem;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 2.35rem;
   align-items: start;
 }
 
