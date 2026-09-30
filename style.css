@@ -146,3 +146,8 @@ footer {
 
   h1 { font-size: 1.75rem; }
 }
+
+
+.narrow-page {
+  max-width: 760px;
+}
